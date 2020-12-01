@@ -1,0 +1,13 @@
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Net\HelloDotNet\bin\Debug\netcoreapp3.1\HelloDotNet.exe
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Net\HelloDotNet\bin\Debug\netcoreapp3.1\HelloDotNet.deps.json
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Net\HelloDotNet\bin\Debug\netcoreapp3.1\HelloDotNet.runtimeconfig.json
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Net\HelloDotNet\bin\Debug\netcoreapp3.1\HelloDotNet.runtimeconfig.dev.json
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Net\HelloDotNet\bin\Debug\netcoreapp3.1\HelloDotNet.dll
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Net\HelloDotNet\bin\Debug\netcoreapp3.1\HelloDotNet.pdb
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Net\HelloDotNet\obj\Debug\netcoreapp3.1\HelloDotNet.csprojAssemblyReference.cache
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Net\HelloDotNet\obj\Debug\netcoreapp3.1\HelloDotNet.AssemblyInfoInputs.cache
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Net\HelloDotNet\obj\Debug\netcoreapp3.1\HelloDotNet.AssemblyInfo.cs
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Net\HelloDotNet\obj\Debug\netcoreapp3.1\HelloDotNet.csproj.CoreCompileInputs.cache
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Net\HelloDotNet\obj\Debug\netcoreapp3.1\HelloDotNet.dll
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Net\HelloDotNet\obj\Debug\netcoreapp3.1\HelloDotNet.pdb
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Net\HelloDotNet\obj\Debug\netcoreapp3.1\HelloDotNet.genruntimeconfig.cache

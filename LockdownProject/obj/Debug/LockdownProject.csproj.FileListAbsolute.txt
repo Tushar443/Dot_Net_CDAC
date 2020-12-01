@@ -1,0 +1,7 @@
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Net\LockdownProject\bin\Debug\LockdownProject.exe.config
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Net\LockdownProject\bin\Debug\LockdownProject.exe
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Net\LockdownProject\bin\Debug\LockdownProject.pdb
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Net\LockdownProject\obj\Debug\LockdownProject.csprojAssemblyReference.cache
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Net\LockdownProject\obj\Debug\LockdownProject.csproj.CoreCompileInputs.cache
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Net\LockdownProject\obj\Debug\LockdownProject.exe
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Net\LockdownProject\obj\Debug\LockdownProject.pdb
