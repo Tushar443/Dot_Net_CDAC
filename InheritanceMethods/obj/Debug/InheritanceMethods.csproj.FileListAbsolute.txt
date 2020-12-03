@@ -1,0 +1,7 @@
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Dot_Net_CDAC\InheritanceMethods\bin\Debug\InheritanceMethods.exe.config
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Dot_Net_CDAC\InheritanceMethods\bin\Debug\InheritanceMethods.exe
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Dot_Net_CDAC\InheritanceMethods\bin\Debug\InheritanceMethods.pdb
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Dot_Net_CDAC\InheritanceMethods\obj\Debug\InheritanceMethods.csprojAssemblyReference.cache
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Dot_Net_CDAC\InheritanceMethods\obj\Debug\InheritanceMethods.csproj.CoreCompileInputs.cache
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Dot_Net_CDAC\InheritanceMethods\obj\Debug\InheritanceMethods.exe
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Dot_Net_CDAC\InheritanceMethods\obj\Debug\InheritanceMethods.pdb

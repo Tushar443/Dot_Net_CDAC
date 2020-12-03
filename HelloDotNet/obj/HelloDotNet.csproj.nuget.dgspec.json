@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\TUSHAR TANAJI MORE\\Desktop\\Git\\Net\\HelloDotNet\\HelloDotNet.csproj": {}
+    "C:\\Users\\TUSHAR TANAJI MORE\\Desktop\\Git\\Dot_Net_CDAC\\HelloDotNet\\HelloDotNet.csproj": {}
   },
   "projects": {
-    "C:\\Users\\TUSHAR TANAJI MORE\\Desktop\\Git\\Net\\HelloDotNet\\HelloDotNet.csproj": {
+    "C:\\Users\\TUSHAR TANAJI MORE\\Desktop\\Git\\Dot_Net_CDAC\\HelloDotNet\\HelloDotNet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\TUSHAR TANAJI MORE\\Desktop\\Git\\Net\\HelloDotNet\\HelloDotNet.csproj",
+        "projectUniqueName": "C:\\Users\\TUSHAR TANAJI MORE\\Desktop\\Git\\Dot_Net_CDAC\\HelloDotNet\\HelloDotNet.csproj",
         "projectName": "HelloDotNet",
-        "projectPath": "C:\\Users\\TUSHAR TANAJI MORE\\Desktop\\Git\\Net\\HelloDotNet\\HelloDotNet.csproj",
+        "projectPath": "C:\\Users\\TUSHAR TANAJI MORE\\Desktop\\Git\\Dot_Net_CDAC\\HelloDotNet\\HelloDotNet.csproj",
         "packagesPath": "C:\\Users\\TUSHAR TANAJI MORE\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\TUSHAR TANAJI MORE\\Desktop\\Git\\Net\\HelloDotNet\\obj\\",
+        "outputPath": "C:\\Users\\TUSHAR TANAJI MORE\\Desktop\\Git\\Dot_Net_CDAC\\HelloDotNet\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\TUSHAR TANAJI MORE\\AppData\\Roaming\\NuGet\\NuGet.Config",

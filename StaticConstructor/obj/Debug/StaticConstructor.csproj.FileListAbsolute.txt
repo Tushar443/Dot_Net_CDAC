@@ -1,0 +1,7 @@
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Dot_Net_CDAC\StaticConstructor\bin\Debug\StaticConstructor.exe.config
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Dot_Net_CDAC\StaticConstructor\bin\Debug\StaticConstructor.exe
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Dot_Net_CDAC\StaticConstructor\bin\Debug\StaticConstructor.pdb
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Dot_Net_CDAC\StaticConstructor\obj\Debug\StaticConstructor.csprojAssemblyReference.cache
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Dot_Net_CDAC\StaticConstructor\obj\Debug\StaticConstructor.csproj.CoreCompileInputs.cache
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Dot_Net_CDAC\StaticConstructor\obj\Debug\StaticConstructor.exe
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Dot_Net_CDAC\StaticConstructor\obj\Debug\StaticConstructor.pdb

@@ -1,0 +1,7 @@
+C:\Users\TUSHAR TANAJI MORE\source\repos\Day4\RefrenceVariable\bin\Debug\RefrenceVariable.exe.config
+C:\Users\TUSHAR TANAJI MORE\source\repos\Day4\RefrenceVariable\bin\Debug\RefrenceVariable.exe
+C:\Users\TUSHAR TANAJI MORE\source\repos\Day4\RefrenceVariable\bin\Debug\RefrenceVariable.pdb
+C:\Users\TUSHAR TANAJI MORE\source\repos\Day4\RefrenceVariable\obj\Debug\RefrenceVariable.csprojAssemblyReference.cache
+C:\Users\TUSHAR TANAJI MORE\source\repos\Day4\RefrenceVariable\obj\Debug\RefrenceVariable.csproj.CoreCompileInputs.cache
+C:\Users\TUSHAR TANAJI MORE\source\repos\Day4\RefrenceVariable\obj\Debug\RefrenceVariable.exe
+C:\Users\TUSHAR TANAJI MORE\source\repos\Day4\RefrenceVariable\obj\Debug\RefrenceVariable.pdb

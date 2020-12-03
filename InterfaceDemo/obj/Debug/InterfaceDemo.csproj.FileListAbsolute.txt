@@ -1,0 +1,6 @@
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Dot_Net_CDAC\InterfaceDemo\bin\Debug\InterfaceDemo.exe.config
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Dot_Net_CDAC\InterfaceDemo\bin\Debug\InterfaceDemo.exe
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Dot_Net_CDAC\InterfaceDemo\bin\Debug\InterfaceDemo.pdb
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Dot_Net_CDAC\InterfaceDemo\obj\Debug\InterfaceDemo.csproj.CoreCompileInputs.cache
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Dot_Net_CDAC\InterfaceDemo\obj\Debug\InterfaceDemo.exe
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Dot_Net_CDAC\InterfaceDemo\obj\Debug\InterfaceDemo.pdb

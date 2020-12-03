@@ -1,0 +1,6 @@
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Dot_Net_CDAC\StaticDemo\bin\Debug\StaticDemo.exe.config
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Dot_Net_CDAC\StaticDemo\bin\Debug\StaticDemo.exe
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Dot_Net_CDAC\StaticDemo\bin\Debug\StaticDemo.pdb
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Dot_Net_CDAC\StaticDemo\obj\Debug\StaticDemo.csproj.CoreCompileInputs.cache
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Dot_Net_CDAC\StaticDemo\obj\Debug\StaticDemo.exe
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Dot_Net_CDAC\StaticDemo\obj\Debug\StaticDemo.pdb

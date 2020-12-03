@@ -1,0 +1,7 @@
+D:\Trainings\JKDec20\Day1\BasicClassConcepts\obj\Debug\BasicClassConcepts.csprojAssemblyReference.cache
+D:\Trainings\JKDec20\Day1\BasicClassConcepts\obj\Debug\BasicClassConcepts.csproj.CoreCompileInputs.cache
+D:\Trainings\JKDec20\Day1\BasicClassConcepts\bin\Debug\BasicClassConcepts.exe.config
+D:\Trainings\JKDec20\Day1\BasicClassConcepts\bin\Debug\BasicClassConcepts.exe
+D:\Trainings\JKDec20\Day1\BasicClassConcepts\bin\Debug\BasicClassConcepts.pdb
+D:\Trainings\JKDec20\Day1\BasicClassConcepts\obj\Debug\BasicClassConcepts.exe
+D:\Trainings\JKDec20\Day1\BasicClassConcepts\obj\Debug\BasicClassConcepts.pdb
