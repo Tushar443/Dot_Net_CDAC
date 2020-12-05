@@ -1,0 +1,6 @@
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Dot_Net_CDAC\TwoDArray\bin\Debug\TwoDArray.exe.config
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Dot_Net_CDAC\TwoDArray\bin\Debug\TwoDArray.exe
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Dot_Net_CDAC\TwoDArray\bin\Debug\TwoDArray.pdb
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Dot_Net_CDAC\TwoDArray\obj\Debug\TwoDArray.csproj.CoreCompileInputs.cache
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Dot_Net_CDAC\TwoDArray\obj\Debug\TwoDArray.exe
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Dot_Net_CDAC\TwoDArray\obj\Debug\TwoDArray.pdb

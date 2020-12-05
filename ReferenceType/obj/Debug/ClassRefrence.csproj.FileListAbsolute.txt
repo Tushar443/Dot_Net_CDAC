@@ -1,0 +1,7 @@
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Dot_Net_CDAC\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Dot_Net_CDAC\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Dot_Net_CDAC\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Dot_Net_CDAC\ConsoleApp1\obj\Debug\ClassRefrence.csprojAssemblyReference.cache
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Dot_Net_CDAC\ConsoleApp1\obj\Debug\ClassRefrence.csproj.CoreCompileInputs.cache
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Dot_Net_CDAC\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Dot_Net_CDAC\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

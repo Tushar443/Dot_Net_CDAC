@@ -1,0 +1,6 @@
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Dot_Net_CDAC\InterfacesInheritance\bin\Debug\InterfacesInheritance.exe.config
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Dot_Net_CDAC\InterfacesInheritance\bin\Debug\InterfacesInheritance.exe
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Dot_Net_CDAC\InterfacesInheritance\bin\Debug\InterfacesInheritance.pdb
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Dot_Net_CDAC\InterfacesInheritance\obj\Debug\InterfacesInheritance.csproj.CoreCompileInputs.cache
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Dot_Net_CDAC\InterfacesInheritance\obj\Debug\InterfacesInheritance.exe
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Dot_Net_CDAC\InterfacesInheritance\obj\Debug\InterfacesInheritance.pdb
