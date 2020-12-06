@@ -1,0 +1,7 @@
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Dot_Net_CDAC\Day6_practice\DelegatesDemo\bin\Debug\DelegatesDemo.exe.config
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Dot_Net_CDAC\Day6_practice\DelegatesDemo\bin\Debug\DelegatesDemo.exe
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Dot_Net_CDAC\Day6_practice\DelegatesDemo\bin\Debug\DelegatesDemo.pdb
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Dot_Net_CDAC\Day6_practice\DelegatesDemo\obj\Debug\DelegatesDemo.csprojAssemblyReference.cache
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Dot_Net_CDAC\Day6_practice\DelegatesDemo\obj\Debug\DelegatesDemo.csproj.CoreCompileInputs.cache
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Dot_Net_CDAC\Day6_practice\DelegatesDemo\obj\Debug\DelegatesDemo.exe
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Dot_Net_CDAC\Day6_practice\DelegatesDemo\obj\Debug\DelegatesDemo.pdb

@@ -1,0 +1,6 @@
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Dot_Net_CDAC\Day6_practice\Delegates_Class\bin\Debug\Delegates_Class.exe.config
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Dot_Net_CDAC\Day6_practice\Delegates_Class\bin\Debug\Delegates_Class.exe
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Dot_Net_CDAC\Day6_practice\Delegates_Class\bin\Debug\Delegates_Class.pdb
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Dot_Net_CDAC\Day6_practice\Delegates_Class\obj\Debug\Delegates_Class.csproj.CoreCompileInputs.cache
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Dot_Net_CDAC\Day6_practice\Delegates_Class\obj\Debug\Delegates_Class.exe
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Dot_Net_CDAC\Day6_practice\Delegates_Class\obj\Debug\Delegates_Class.pdb
