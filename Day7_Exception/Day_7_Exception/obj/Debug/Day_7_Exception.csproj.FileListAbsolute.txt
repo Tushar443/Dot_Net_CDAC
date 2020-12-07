@@ -1,0 +1,7 @@
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Dot_Net_CDAC\Day_7_Exception\Day_7_Exception\bin\Debug\Day_7_Exception.exe.config
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Dot_Net_CDAC\Day_7_Exception\Day_7_Exception\bin\Debug\Day_7_Exception.exe
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Dot_Net_CDAC\Day_7_Exception\Day_7_Exception\bin\Debug\Day_7_Exception.pdb
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Dot_Net_CDAC\Day_7_Exception\Day_7_Exception\obj\Debug\Day_7_Exception.csprojAssemblyReference.cache
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Dot_Net_CDAC\Day_7_Exception\Day_7_Exception\obj\Debug\Day_7_Exception.csproj.CoreCompileInputs.cache
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Dot_Net_CDAC\Day_7_Exception\Day_7_Exception\obj\Debug\Day_7_Exception.exe
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Dot_Net_CDAC\Day_7_Exception\Day_7_Exception\obj\Debug\Day_7_Exception.pdb

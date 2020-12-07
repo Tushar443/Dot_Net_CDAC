@@ -1,0 +1,7 @@
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Dot_Net_CDAC\Collection_Practice\GenericsCollection\bin\Debug\GenericsCollection.exe.config
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Dot_Net_CDAC\Collection_Practice\GenericsCollection\bin\Debug\GenericsCollection.exe
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Dot_Net_CDAC\Collection_Practice\GenericsCollection\bin\Debug\GenericsCollection.pdb
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Dot_Net_CDAC\Collection_Practice\GenericsCollection\obj\Debug\GenericsCollection.csprojAssemblyReference.cache
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Dot_Net_CDAC\Collection_Practice\GenericsCollection\obj\Debug\GenericsCollection.csproj.CoreCompileInputs.cache
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Dot_Net_CDAC\Collection_Practice\GenericsCollection\obj\Debug\GenericsCollection.exe
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Dot_Net_CDAC\Collection_Practice\GenericsCollection\obj\Debug\GenericsCollection.pdb

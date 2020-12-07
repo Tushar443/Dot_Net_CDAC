@@ -1,6 +1,0 @@
-C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Dot_Net_CDAC\CDAC_Array\bin\Debug\CDAC_Array.exe.config
-C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Dot_Net_CDAC\CDAC_Array\bin\Debug\CDAC_Array.exe
-C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Dot_Net_CDAC\CDAC_Array\bin\Debug\CDAC_Array.pdb
-C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Dot_Net_CDAC\CDAC_Array\obj\Debug\CDAC_Array.csproj.CoreCompileInputs.cache
-C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Dot_Net_CDAC\CDAC_Array\obj\Debug\CDAC_Array.exe
-C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Dot_Net_CDAC\CDAC_Array\obj\Debug\CDAC_Array.pdb

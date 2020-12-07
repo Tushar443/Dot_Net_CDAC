@@ -1,0 +1,7 @@
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Dot_Net_CDAC\Day2_practice\StructAssinment\bin\Debug\StructAssinment.exe.config
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Dot_Net_CDAC\Day2_practice\StructAssinment\bin\Debug\StructAssinment.exe
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Dot_Net_CDAC\Day2_practice\StructAssinment\bin\Debug\StructAssinment.pdb
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Dot_Net_CDAC\Day2_practice\StructAssinment\obj\Debug\StructAssinment.csprojAssemblyReference.cache
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Dot_Net_CDAC\Day2_practice\StructAssinment\obj\Debug\StructAssinment.csproj.CoreCompileInputs.cache
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Dot_Net_CDAC\Day2_practice\StructAssinment\obj\Debug\StructAssinment.exe
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Dot_Net_CDAC\Day2_practice\StructAssinment\obj\Debug\StructAssinment.pdb
