@@ -1,0 +1,7 @@
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Dot_Net_CDAC\Day10_Thresds\DeoThread\bin\Debug\DeoThread.exe.config
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Dot_Net_CDAC\Day10_Thresds\DeoThread\bin\Debug\DeoThread.exe
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Dot_Net_CDAC\Day10_Thresds\DeoThread\bin\Debug\DeoThread.pdb
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Dot_Net_CDAC\Day10_Thresds\DeoThread\obj\Debug\DeoThread.csprojAssemblyReference.cache
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Dot_Net_CDAC\Day10_Thresds\DeoThread\obj\Debug\DeoThread.csproj.CoreCompileInputs.cache
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Dot_Net_CDAC\Day10_Thresds\DeoThread\obj\Debug\DeoThread.exe
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Dot_Net_CDAC\Day10_Thresds\DeoThread\obj\Debug\DeoThread.pdb

@@ -1,0 +1,7 @@
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Dot_Net_CDAC\Solve_Assignments\Lambda\LambdaAssinment\bin\Debug\LambdaAssinment.exe.config
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Dot_Net_CDAC\Solve_Assignments\Lambda\LambdaAssinment\bin\Debug\LambdaAssinment.exe
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Dot_Net_CDAC\Solve_Assignments\Lambda\LambdaAssinment\bin\Debug\LambdaAssinment.pdb
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Dot_Net_CDAC\Solve_Assignments\Lambda\LambdaAssinment\obj\Debug\LambdaAssinment.csprojAssemblyReference.cache
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Dot_Net_CDAC\Solve_Assignments\Lambda\LambdaAssinment\obj\Debug\LambdaAssinment.csproj.CoreCompileInputs.cache
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Dot_Net_CDAC\Solve_Assignments\Lambda\LambdaAssinment\obj\Debug\LambdaAssinment.exe
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Dot_Net_CDAC\Solve_Assignments\Lambda\LambdaAssinment\obj\Debug\LambdaAssinment.pdb

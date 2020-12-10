@@ -1,0 +1,7 @@
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Dot_Net_CDAC\LINQ\Demo1st\bin\Debug\Demo1st.exe.config
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Dot_Net_CDAC\LINQ\Demo1st\bin\Debug\Demo1st.exe
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Dot_Net_CDAC\LINQ\Demo1st\bin\Debug\Demo1st.pdb
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Dot_Net_CDAC\LINQ\Demo1st\obj\Debug\Demo1st.csprojAssemblyReference.cache
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Dot_Net_CDAC\LINQ\Demo1st\obj\Debug\Demo1st.csproj.CoreCompileInputs.cache
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Dot_Net_CDAC\LINQ\Demo1st\obj\Debug\Demo1st.exe
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Dot_Net_CDAC\LINQ\Demo1st\obj\Debug\Demo1st.pdb

@@ -1,0 +1,7 @@
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Dot_Net_CDAC\Day8_Lambda\AnonymousFunction\bin\Debug\AnonymousFunction.exe.config
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Dot_Net_CDAC\Day8_Lambda\AnonymousFunction\bin\Debug\AnonymousFunction.exe
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Dot_Net_CDAC\Day8_Lambda\AnonymousFunction\bin\Debug\AnonymousFunction.pdb
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Dot_Net_CDAC\Day8_Lambda\AnonymousFunction\obj\Debug\AnonymousFunction.csproj.CoreCompileInputs.cache
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Dot_Net_CDAC\Day8_Lambda\AnonymousFunction\obj\Debug\AnonymousFunction.exe
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Dot_Net_CDAC\Day8_Lambda\AnonymousFunction\obj\Debug\AnonymousFunction.pdb
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Dot_Net_CDAC\Day8_Lambda\AnonymousFunction\obj\Debug\AnonymousFunction.csprojAssemblyReference.cache

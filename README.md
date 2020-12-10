@@ -11,5 +11,17 @@
 ### Shift + Alt + Enter ==> Focus mode
 ### F12   ==> go to method definition or variable
 ### Ctrl + Shift + v ==> 
-###
-###
+### Shift + Alt + Enter ==> Full Screen 
+### ctrl+k+/  ==> Comment / uncomment
+
+### prop + tab+ tab ==> genrate property
+### ctor + tab +tab ==> constructor
+
+### Ctrl+ k+x => to see snippets 
+
+### F12 ==> to go to the defination
+
+## ctrl + - ==>take cursor back 
+## ctrl +Shift + - ==>take cursor forward
+
+### ctrl+ ck+c ==> multiline comment

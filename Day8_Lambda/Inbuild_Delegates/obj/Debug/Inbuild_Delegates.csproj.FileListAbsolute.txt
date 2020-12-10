@@ -1,0 +1,7 @@
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Dot_Net_CDAC\Day8_Lambda\Inbuild_Delegates\bin\Debug\Inbuild_Delegates.exe.config
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Dot_Net_CDAC\Day8_Lambda\Inbuild_Delegates\bin\Debug\Inbuild_Delegates.exe
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Dot_Net_CDAC\Day8_Lambda\Inbuild_Delegates\bin\Debug\Inbuild_Delegates.pdb
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Dot_Net_CDAC\Day8_Lambda\Inbuild_Delegates\obj\Debug\Inbuild_Delegates.csprojAssemblyReference.cache
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Dot_Net_CDAC\Day8_Lambda\Inbuild_Delegates\obj\Debug\Inbuild_Delegates.csproj.CoreCompileInputs.cache
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Dot_Net_CDAC\Day8_Lambda\Inbuild_Delegates\obj\Debug\Inbuild_Delegates.exe
+C:\Users\TUSHAR TANAJI MORE\Desktop\Git\Dot_Net_CDAC\Day8_Lambda\Inbuild_Delegates\obj\Debug\Inbuild_Delegates.pdb
