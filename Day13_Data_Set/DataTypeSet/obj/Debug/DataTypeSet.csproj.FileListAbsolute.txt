@@ -13,3 +13,4 @@ C:\Users\TUSHAR TANAJI MORE\Desktop\GitHub\Dot_Net_CDAC\Day13_Data_Set\DataTypeS
 C:\Users\TUSHAR TANAJI MORE\Desktop\GitHub\Dot_Net_CDAC\Day13_Data_Set\DataTypeSet\obj\Debug\DataTypeSet.csproj.CoreCompileInputs.cache
 C:\Users\TUSHAR TANAJI MORE\Desktop\GitHub\Dot_Net_CDAC\Day13_Data_Set\DataTypeSet\obj\Debug\DataTypeSet.exe
 C:\Users\TUSHAR TANAJI MORE\Desktop\GitHub\Dot_Net_CDAC\Day13_Data_Set\DataTypeSet\obj\Debug\DataTypeSet.pdb
+C:\Users\TUSHAR TANAJI MORE\Desktop\GitHub\Dot_Net_CDAC\Day13_Data_Set\DataTypeSet\obj\Debug\DataSetUsingGrid.g.cs

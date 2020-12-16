@@ -25,3 +25,8 @@
 ## ctrl +Shift + - ==>take cursor forward
 
 ### ctrl+ ck+c ==> multiline comment
+
+
+### Shift + ctrl + .    ==> Multiple Seletion Auto
+
+### ctrl +alt + click ==>> Multiple Select 

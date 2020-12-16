@@ -1,0 +1,5 @@
+C:\Users\TUSHAR TANAJI MORE\Desktop\GitHub\Dot_Net_CDAC\Day13_Data_Set\DataSet\obj\Debug\DataSet.csprojAssemblyReference.cache
+C:\Users\TUSHAR TANAJI MORE\Desktop\GitHub\Dot_Net_CDAC\Day13_Data_Set\DataSet\obj\Debug\MainWindow.g.cs
+C:\Users\TUSHAR TANAJI MORE\Desktop\GitHub\Dot_Net_CDAC\Day13_Data_Set\DataSet\obj\Debug\App.g.cs
+C:\Users\TUSHAR TANAJI MORE\Desktop\GitHub\Dot_Net_CDAC\Day13_Data_Set\DataSet\obj\Debug\DataSet_MarkupCompile.cache
+C:\Users\TUSHAR TANAJI MORE\Desktop\GitHub\Dot_Net_CDAC\Day13_Data_Set\DataSet\obj\Debug\DataSet_MarkupCompile.lref
