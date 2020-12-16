@@ -1,0 +1,15 @@
+C:\Users\TUSHAR TANAJI MORE\Desktop\GitHub\Dot_Net_CDAC\DataBaseConnection\DataReader2\bin\Debug\DataReader2.exe.config
+C:\Users\TUSHAR TANAJI MORE\Desktop\GitHub\Dot_Net_CDAC\DataBaseConnection\DataReader2\bin\Debug\DataReader2.exe
+C:\Users\TUSHAR TANAJI MORE\Desktop\GitHub\Dot_Net_CDAC\DataBaseConnection\DataReader2\bin\Debug\DataReader2.pdb
+C:\Users\TUSHAR TANAJI MORE\Desktop\GitHub\Dot_Net_CDAC\DataBaseConnection\DataReader2\obj\Debug\DataReader2.csprojAssemblyReference.cache
+C:\Users\TUSHAR TANAJI MORE\Desktop\GitHub\Dot_Net_CDAC\DataBaseConnection\DataReader2\obj\Debug\MainWindow.g.cs
+C:\Users\TUSHAR TANAJI MORE\Desktop\GitHub\Dot_Net_CDAC\DataBaseConnection\DataReader2\obj\Debug\App.g.cs
+C:\Users\TUSHAR TANAJI MORE\Desktop\GitHub\Dot_Net_CDAC\DataBaseConnection\DataReader2\obj\Debug\DataReader2_MarkupCompile.cache
+C:\Users\TUSHAR TANAJI MORE\Desktop\GitHub\Dot_Net_CDAC\DataBaseConnection\DataReader2\obj\Debug\DataReader2_MarkupCompile.lref
+C:\Users\TUSHAR TANAJI MORE\Desktop\GitHub\Dot_Net_CDAC\DataBaseConnection\DataReader2\obj\Debug\MainWindow.baml
+C:\Users\TUSHAR TANAJI MORE\Desktop\GitHub\Dot_Net_CDAC\DataBaseConnection\DataReader2\obj\Debug\DataReader2.g.resources
+C:\Users\TUSHAR TANAJI MORE\Desktop\GitHub\Dot_Net_CDAC\DataBaseConnection\DataReader2\obj\Debug\DataReader2.Properties.Resources.resources
+C:\Users\TUSHAR TANAJI MORE\Desktop\GitHub\Dot_Net_CDAC\DataBaseConnection\DataReader2\obj\Debug\DataReader2.csproj.GenerateResource.cache
+C:\Users\TUSHAR TANAJI MORE\Desktop\GitHub\Dot_Net_CDAC\DataBaseConnection\DataReader2\obj\Debug\DataReader2.csproj.CoreCompileInputs.cache
+C:\Users\TUSHAR TANAJI MORE\Desktop\GitHub\Dot_Net_CDAC\DataBaseConnection\DataReader2\obj\Debug\DataReader2.exe
+C:\Users\TUSHAR TANAJI MORE\Desktop\GitHub\Dot_Net_CDAC\DataBaseConnection\DataReader2\obj\Debug\DataReader2.pdb

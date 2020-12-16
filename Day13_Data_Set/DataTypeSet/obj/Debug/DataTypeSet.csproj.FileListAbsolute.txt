@@ -1,0 +1,15 @@
+C:\Users\TUSHAR TANAJI MORE\Desktop\GitHub\Dot_Net_CDAC\Day13_Data_Set\DataTypeSet\bin\Debug\DataTypeSet.exe.config
+C:\Users\TUSHAR TANAJI MORE\Desktop\GitHub\Dot_Net_CDAC\Day13_Data_Set\DataTypeSet\bin\Debug\DataTypeSet.exe
+C:\Users\TUSHAR TANAJI MORE\Desktop\GitHub\Dot_Net_CDAC\Day13_Data_Set\DataTypeSet\bin\Debug\DataTypeSet.pdb
+C:\Users\TUSHAR TANAJI MORE\Desktop\GitHub\Dot_Net_CDAC\Day13_Data_Set\DataTypeSet\obj\Debug\DataTypeSet.csprojAssemblyReference.cache
+C:\Users\TUSHAR TANAJI MORE\Desktop\GitHub\Dot_Net_CDAC\Day13_Data_Set\DataTypeSet\obj\Debug\MainWindow.g.cs
+C:\Users\TUSHAR TANAJI MORE\Desktop\GitHub\Dot_Net_CDAC\Day13_Data_Set\DataTypeSet\obj\Debug\App.g.cs
+C:\Users\TUSHAR TANAJI MORE\Desktop\GitHub\Dot_Net_CDAC\Day13_Data_Set\DataTypeSet\obj\Debug\DataTypeSet_MarkupCompile.cache
+C:\Users\TUSHAR TANAJI MORE\Desktop\GitHub\Dot_Net_CDAC\Day13_Data_Set\DataTypeSet\obj\Debug\DataTypeSet_MarkupCompile.lref
+C:\Users\TUSHAR TANAJI MORE\Desktop\GitHub\Dot_Net_CDAC\Day13_Data_Set\DataTypeSet\obj\Debug\MainWindow.baml
+C:\Users\TUSHAR TANAJI MORE\Desktop\GitHub\Dot_Net_CDAC\Day13_Data_Set\DataTypeSet\obj\Debug\DataTypeSet.g.resources
+C:\Users\TUSHAR TANAJI MORE\Desktop\GitHub\Dot_Net_CDAC\Day13_Data_Set\DataTypeSet\obj\Debug\DataTypeSet.Properties.Resources.resources
+C:\Users\TUSHAR TANAJI MORE\Desktop\GitHub\Dot_Net_CDAC\Day13_Data_Set\DataTypeSet\obj\Debug\DataTypeSet.csproj.GenerateResource.cache
+C:\Users\TUSHAR TANAJI MORE\Desktop\GitHub\Dot_Net_CDAC\Day13_Data_Set\DataTypeSet\obj\Debug\DataTypeSet.csproj.CoreCompileInputs.cache
+C:\Users\TUSHAR TANAJI MORE\Desktop\GitHub\Dot_Net_CDAC\Day13_Data_Set\DataTypeSet\obj\Debug\DataTypeSet.exe
+C:\Users\TUSHAR TANAJI MORE\Desktop\GitHub\Dot_Net_CDAC\Day13_Data_Set\DataTypeSet\obj\Debug\DataTypeSet.pdb

@@ -1,0 +1,16 @@
+C:\Users\TUSHAR TANAJI MORE\Desktop\GitHub\Dot_Net_CDAC\DataBaseConnection\DatabaseReder\DataReader\bin\Debug\DataReader.exe.config
+C:\Users\TUSHAR TANAJI MORE\Desktop\GitHub\Dot_Net_CDAC\DataBaseConnection\DatabaseReder\DataReader\bin\Debug\DataReader.exe
+C:\Users\TUSHAR TANAJI MORE\Desktop\GitHub\Dot_Net_CDAC\DataBaseConnection\DatabaseReder\DataReader\bin\Debug\DataReader.pdb
+C:\Users\TUSHAR TANAJI MORE\Desktop\GitHub\Dot_Net_CDAC\DataBaseConnection\DatabaseReder\DataReader\obj\Debug\DataReader.csprojAssemblyReference.cache
+C:\Users\TUSHAR TANAJI MORE\Desktop\GitHub\Dot_Net_CDAC\DataBaseConnection\DatabaseReder\DataReader\obj\Debug\MainWindow.g.cs
+C:\Users\TUSHAR TANAJI MORE\Desktop\GitHub\Dot_Net_CDAC\DataBaseConnection\DatabaseReder\DataReader\obj\Debug\App.g.cs
+C:\Users\TUSHAR TANAJI MORE\Desktop\GitHub\Dot_Net_CDAC\DataBaseConnection\DatabaseReder\DataReader\obj\Debug\DataReader_MarkupCompile.cache
+C:\Users\TUSHAR TANAJI MORE\Desktop\GitHub\Dot_Net_CDAC\DataBaseConnection\DatabaseReder\DataReader\obj\Debug\DataReader_MarkupCompile.lref
+C:\Users\TUSHAR TANAJI MORE\Desktop\GitHub\Dot_Net_CDAC\DataBaseConnection\DatabaseReder\DataReader\obj\Debug\MainWindow.baml
+C:\Users\TUSHAR TANAJI MORE\Desktop\GitHub\Dot_Net_CDAC\DataBaseConnection\DatabaseReder\DataReader\obj\Debug\DataReader.g.resources
+C:\Users\TUSHAR TANAJI MORE\Desktop\GitHub\Dot_Net_CDAC\DataBaseConnection\DatabaseReder\DataReader\obj\Debug\DataReader.Properties.Resources.resources
+C:\Users\TUSHAR TANAJI MORE\Desktop\GitHub\Dot_Net_CDAC\DataBaseConnection\DatabaseReder\DataReader\obj\Debug\DataReader.csproj.GenerateResource.cache
+C:\Users\TUSHAR TANAJI MORE\Desktop\GitHub\Dot_Net_CDAC\DataBaseConnection\DatabaseReder\DataReader\obj\Debug\DataReader.csproj.CoreCompileInputs.cache
+C:\Users\TUSHAR TANAJI MORE\Desktop\GitHub\Dot_Net_CDAC\DataBaseConnection\DatabaseReder\DataReader\obj\Debug\DataReader.exe
+C:\Users\TUSHAR TANAJI MORE\Desktop\GitHub\Dot_Net_CDAC\DataBaseConnection\DatabaseReder\DataReader\obj\Debug\DataReader.pdb
+C:\Users\TUSHAR TANAJI MORE\Desktop\GitHub\Dot_Net_CDAC\DataBaseConnection\DatabaseReder\DataReader\obj\Debug\DataReader.g.cs

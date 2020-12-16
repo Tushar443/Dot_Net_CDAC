@@ -1,0 +1,15 @@
+C:\Users\TUSHAR TANAJI MORE\Desktop\GitHub\Dot_Net_CDAC\DataBaseConnection\ProcedureDemo\ProcedureDemo\bin\Debug\ProcedureDemo.exe.config
+C:\Users\TUSHAR TANAJI MORE\Desktop\GitHub\Dot_Net_CDAC\DataBaseConnection\ProcedureDemo\ProcedureDemo\bin\Debug\ProcedureDemo.exe
+C:\Users\TUSHAR TANAJI MORE\Desktop\GitHub\Dot_Net_CDAC\DataBaseConnection\ProcedureDemo\ProcedureDemo\bin\Debug\ProcedureDemo.pdb
+C:\Users\TUSHAR TANAJI MORE\Desktop\GitHub\Dot_Net_CDAC\DataBaseConnection\ProcedureDemo\ProcedureDemo\obj\Debug\ProcedureDemo.csprojAssemblyReference.cache
+C:\Users\TUSHAR TANAJI MORE\Desktop\GitHub\Dot_Net_CDAC\DataBaseConnection\ProcedureDemo\ProcedureDemo\obj\Debug\MainWindow.g.cs
+C:\Users\TUSHAR TANAJI MORE\Desktop\GitHub\Dot_Net_CDAC\DataBaseConnection\ProcedureDemo\ProcedureDemo\obj\Debug\App.g.cs
+C:\Users\TUSHAR TANAJI MORE\Desktop\GitHub\Dot_Net_CDAC\DataBaseConnection\ProcedureDemo\ProcedureDemo\obj\Debug\ProcedureDemo_MarkupCompile.cache
+C:\Users\TUSHAR TANAJI MORE\Desktop\GitHub\Dot_Net_CDAC\DataBaseConnection\ProcedureDemo\ProcedureDemo\obj\Debug\ProcedureDemo_MarkupCompile.lref
+C:\Users\TUSHAR TANAJI MORE\Desktop\GitHub\Dot_Net_CDAC\DataBaseConnection\ProcedureDemo\ProcedureDemo\obj\Debug\MainWindow.baml
+C:\Users\TUSHAR TANAJI MORE\Desktop\GitHub\Dot_Net_CDAC\DataBaseConnection\ProcedureDemo\ProcedureDemo\obj\Debug\ProcedureDemo.g.resources
+C:\Users\TUSHAR TANAJI MORE\Desktop\GitHub\Dot_Net_CDAC\DataBaseConnection\ProcedureDemo\ProcedureDemo\obj\Debug\ProcedureDemo.Properties.Resources.resources
+C:\Users\TUSHAR TANAJI MORE\Desktop\GitHub\Dot_Net_CDAC\DataBaseConnection\ProcedureDemo\ProcedureDemo\obj\Debug\ProcedureDemo.csproj.GenerateResource.cache
+C:\Users\TUSHAR TANAJI MORE\Desktop\GitHub\Dot_Net_CDAC\DataBaseConnection\ProcedureDemo\ProcedureDemo\obj\Debug\ProcedureDemo.csproj.CoreCompileInputs.cache
+C:\Users\TUSHAR TANAJI MORE\Desktop\GitHub\Dot_Net_CDAC\DataBaseConnection\ProcedureDemo\ProcedureDemo\obj\Debug\ProcedureDemo.exe
+C:\Users\TUSHAR TANAJI MORE\Desktop\GitHub\Dot_Net_CDAC\DataBaseConnection\ProcedureDemo\ProcedureDemo\obj\Debug\ProcedureDemo.pdb
