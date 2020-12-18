@@ -42,12 +42,12 @@ namespace DataSetDemo
             da.SelectCommand = cmd;
 
             da.Fill(ds, "Emp");
-            cmd.CommandText = "select * from Dept";
+            cmd.CommandText = "select * from Departments";
             da.SelectCommand = cmd;
             da.Fill(ds, "Dep");
             //primary Key Validation
             DataColumn[] arrCol = new DataColumn[1];
-            arrCol[0] = ds.Tables["Emp"].Columns["EmpId"];
+            arrCol[0] = ds.Tables["Emp"].Columns["EmpNo"];
             ds.Tables["Emp"].PrimaryKey = arrCol;
 
             //Foregin Key Validation
@@ -65,41 +65,42 @@ namespace DataSetDemo
         {
             SqlConnection cn = new SqlConnection();
             cn.ConnectionString = @"Data Source=(localdb)\MsSqlLocalDb;Initial Catalog=Thunder;Integrated Security=True";
+            cn.Open();
             //Delete
             SqlCommand cmdDelte = new SqlCommand();
-            //cmdDelte.Connection = cn;
-            //cmdDelte.CommandType = CommandType.Text;
-            //cmdDelte.CommandText = "Delete from Employee where EmpId=@EmpId";
-            //cmdDelte.Parameters.Add(new SqlParameter { ParameterName = "@EmpId", Value = "EmpId", SourceVersion = DataRowVersion.Original });
+            cmdDelte.Connection = cn;
+            cmdDelte.CommandType = CommandType.Text;
+            cmdDelte.CommandText = "Delete from Employee where EmpNo=@EmpNo";
+            cmdDelte.Parameters.Add(new SqlParameter { ParameterName = "@EmpNo", SourceColumn = "EmpNo", SourceVersion = DataRowVersion.Original });
 
             //Update
             SqlCommand cmdUpdate = new SqlCommand();
             cmdUpdate.Connection = cn;
             cmdUpdate.CommandType = CommandType.Text;
-            cmdUpdate.CommandText = "update Employee set EmpBasic=@EmpBasic,DeptNo=@DeptNo where EmpName=@EmpName";
-            //cmdUpdate.Parameters.AddWithValue("@EmpName",txtName);
+            cmdUpdate.CommandText = "update Employee set EmpName=@EmpName ,Basic=@Basic,DeptNo=@DeptNo where EmpNo=@EmpNo";
+            //cmdUpdate.Parameters.AddWithValSourceColumnue("@EmpName",txtName);
 
             //SqlParameter p = new SqlParameter();
             //p.ParameterName = "@EmpName";
-            //p.Value = "EmpName";
+            //p.VSourceColumnalue = "EmpName";
             //p.SourceVersion = DataRowVersion.Current;
             //cmdUpdate.Parameters.Add(p);
 
-            cmdUpdate.Parameters.Add(new SqlParameter { ParameterName = "@EmpName", Value = "EmpName", SourceVersion = DataRowVersion.Original });
-            cmdUpdate.Parameters.Add(new SqlParameter { ParameterName = "@EmpBasic", Value = "EmpBasic", SourceVersion = DataRowVersion.Current });
-            cmdUpdate.Parameters.Add(new SqlParameter { ParameterName = "@DeptNo", Value = "DeptNo", SourceVersion = DataRowVersion.Current });
-          //  cmdUpdate.Parameters.Add(new SqlParameter { ParameterName = "@EmpId", Value = "EmpId", SourceVersion = DataRowVersion.Original });
+            cmdUpdate.Parameters.Add(new SqlParameter { ParameterName = "@EmpName", SourceColumn = "EmpName", SourceVersion = DataRowVersion.Current });
+            cmdUpdate.Parameters.Add(new SqlParameter { ParameterName = "@Basic", SourceColumn = "Basic", SourceVersion = DataRowVersion.Current });
+            cmdUpdate.Parameters.Add(new SqlParameter { ParameterName = "@DeptNo", SourceColumn = "DeptNo", SourceVersion = DataRowVersion.Current });
+            cmdUpdate.Parameters.Add(new SqlParameter { ParameterName = "@EmpNo", SourceColumn = "EmpNo", SourceVersion = DataRowVersion.Original });
 
             //Insert
             SqlCommand cmdInsert = new SqlCommand();
-            //cmdInsert.Connection = cn;
-            //cmdInsert.CommandType = CommandType.Text;
-            //cmdInsert.CommandText = "insert into Employee values(@EmpId,@EmpName,@EmpBasic,@DeptNo)";
+            cmdInsert.Connection = cn;
+            cmdInsert.CommandType = CommandType.Text;
+            cmdInsert.CommandText = "insert into Employee values(@EmpNo,@EmpName,@Basic,@DeptNo)";
 
-            //cmdInsert.Parameters.Add(new SqlParameter { ParameterName = "@EmpName", Value = "EmpName", SourceVersion = DataRowVersion.Current });
-            //cmdInsert.Parameters.Add(new SqlParameter { ParameterName = "@EmpId", Value = "EmpId", SourceVersion = DataRowVersion.Current });
-            //cmdInsert.Parameters.Add(new SqlParameter { ParameterName = "@EmpBasic", Value = "EmpBasic", SourceVersion = DataRowVersion.Current });
-            //cmdInsert.Parameters.Add(new SqlParameter { ParameterName = "@DeptNo", Value = "DeptNo", SourceVersion = DataRowVersion.Current });
+            cmdInsert.Parameters.Add(new SqlParameter { ParameterName = "@EmpName", SourceColumn = "EmpName", SourceVersion = DataRowVersion.Current });
+            cmdInsert.Parameters.Add(new SqlParameter { ParameterName = "@EmpNo", SourceColumn = "EmpNo", SourceVersion = DataRowVersion.Current });
+            cmdInsert.Parameters.Add(new SqlParameter { ParameterName = "@Basic", SourceColumn = "Basic", SourceVersion = DataRowVersion.Current });
+            cmdInsert.Parameters.Add(new SqlParameter { ParameterName = "@DeptNo", SourceColumn = "DeptNo", SourceVersion = DataRowVersion.Current });
 
 
 
@@ -108,7 +109,42 @@ namespace DataSetDemo
             da.DeleteCommand = cmdDelte;
             da.InsertCommand = cmdInsert;
             da.Update(ds, "Emp");
+            cn.Close();
 
+        }
+
+        private void btnFilter_Click(object sender, RoutedEventArgs e)
+        {
+            //  DataView dv = new DataView(ds.Tables["Emp"]);
+            ////  dv.RowFilter = "DeptNo=" +;  //WHere Clause
+            //  dv.Sort = "EmpName";   // Order By Clause
+            //  lstGrid.ItemsSource = dv;
+
+
+            ds.Tables["Emp"].DefaultView.RowFilter = "DeptNo="+txtDeptNo.Text;
+           // ds.Tables["Emp"].DefaultView.Sort = "EmpName";
+
+        }
+
+        private void btnXML_Click(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show(ds.GetXml());
+            //MessageBox.Show(ds.GetXmlSchema());
+        }
+
+        private void btnSave_Click(object sender, RoutedEventArgs e)
+        {
+            ds.WriteXmlSchema("myXMLFile.xsd");
+            ds.WriteXml("myXMLFile.xml", XmlWriteMode.DiffGram);
+
+        }
+
+        private void btnRead_Click(object sender, RoutedEventArgs e)
+        {
+            ds = new DataSet();
+            ds.ReadXmlSchema("myXMLFile.xsd");
+            ds.ReadXml("myXMLFile.xml");
+            lstGrid.ItemsSource = ds.Tables["Emp"].DefaultView;
         }
     }
 }

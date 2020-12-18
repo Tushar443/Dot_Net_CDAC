@@ -33,7 +33,7 @@ namespace DatabaseExamples
             //cn.ConnectionString = @"Data Source=(localdb)\MsSqlLocalDb;Initial Catalog=JKDec20;User Id=sa;Password=sa";
 
             //Data Source=(localdb)\MsSqlLocalDb;Initial Catalog=JKDec20;Integrated Security=True
-
+            //Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=D:\Trainings\JKDec20\Sample.mdf;Integrated Security=True;Connect Timeout=30
             cn.Open();
 
             SqlCommand cmd = new SqlCommand();
@@ -132,6 +132,57 @@ namespace DatabaseExamples
             cn.Close();
 
 
+        }
+
+        private void Button_Click_2(object sender, RoutedEventArgs e)
+        {
+            SqlConnection cn = new SqlConnection();
+            cn.ConnectionString = @"Data Source=(localdb)\MsSqlLocalDb;Initial Catalog=JKDec20;Integrated Security=true";
+            cn.Open();
+            SqlTransaction t = cn.BeginTransaction();
+            SqlCommand cmd = new SqlCommand();
+            cmd.Connection = cn;
+            cmd.Transaction = t;
+            cmd.CommandType = CommandType.Text;
+            cmd.CommandText = "insert into Employees values(300,'new emp',12345,10)";
+            SqlCommand cmd2 = new SqlCommand();
+            cmd2.Connection = cn;
+            cmd2.Transaction = t;
+            cmd2.CommandType = CommandType.Text;
+            cmd2.CommandText = "insert into Employees values(300,'new emp2',12345,10)";
+            try
+            {
+                cmd.ExecuteNonQuery();
+                cmd2.ExecuteNonQuery();
+                t.Commit();
+                MessageBox.Show("commit");
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+                t.Rollback();
+            }
+            finally
+            {
+                cn.Close();
+            }
+
+        }
+
+        private void Button_Click_3(object sender, RoutedEventArgs e)
+        {
+            SqlConnection cn = new SqlConnection();
+            cn.ConnectionString = @"Data Source=(localdb)\MsSqlLocalDb;Initial Catalog=JKDec20;Integrated Security=true";
+
+            cn.Open();
+
+            SqlCommand cmd = new SqlCommand();
+            cmd.Connection = cn;
+            cmd.CommandType = CommandType.Text;
+            cmd.CommandText = "select count(*) from Employees";
+            MessageBox.Show(cmd.ExecuteScalar().ToString());
+
+            cn.Close();
         }
     }
 }

@@ -1,0 +1,71 @@
+﻿
+@{
+    ViewBag.Title = "Multiple";
+}
+
+<h2>Multiple</h2>
+
+<h1>
+    @ViewBag.Id
+    @ViewBag.EmpId
+    @ViewBag.Name
+    @ViewBag.Basic
+</h1>
+
+@{
+    int i = 2;
+    string s = "Thunder";
+}
+i = @i;
+Name = @s
+
+<br />
+<br />
+<br />
+
+@{
+    if (i % 2 == 0)
+    {
+        @:Even
+    }
+    else
+    {
+        @:Odd
+    }
+}
+<br />
+<br />
+<br />
+@if (i >= 0)
+{
+    @:Hiiiiiiiiii
+}
+else
+{
+    @:Byyy
+}
+
+
+<br />
+<br />
+<br />
+
+<h1>For Loop</h1>
+
+
+
+<table>
+
+    @for (int l = 0; l <= 10; l++)
+    {
+        <tr>
+            <td>@l</td>
+            <td>*</td>
+            <td>@i</td>
+            <td>=</td>
+            <td>@(i*l)</td>
+        </tr>
+
+    }
+
+</table>

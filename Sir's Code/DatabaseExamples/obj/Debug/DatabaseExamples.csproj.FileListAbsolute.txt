@@ -13,3 +13,11 @@ D:\Trainings\JKDec20\DatabaseExamples\obj\Debug\DatabaseExamples.csproj.Generate
 D:\Trainings\JKDec20\DatabaseExamples\obj\Debug\DatabaseExamples.csproj.CoreCompileInputs.cache
 D:\Trainings\JKDec20\DatabaseExamples\obj\Debug\DatabaseExamples.exe
 D:\Trainings\JKDec20\DatabaseExamples\obj\Debug\DatabaseExamples.pdb
+D:\Trainings\JKDec20\DatabaseExamples\obj\Debug\Window1.g.cs
+D:\Trainings\JKDec20\DatabaseExamples\obj\Debug\Window1.baml
+D:\Trainings\JKDec20\DatabaseExamples\obj\Debug\Window2.g.cs
+D:\Trainings\JKDec20\DatabaseExamples\obj\Debug\Window2.baml
+D:\Trainings\JKDec20\DatabaseExamples\obj\Debug\Window3.g.cs
+D:\Trainings\JKDec20\DatabaseExamples\obj\Debug\Window3.baml
+D:\Trainings\JKDec20\DatabaseExamples\obj\Debug\Window4.g.cs
+D:\Trainings\JKDec20\DatabaseExamples\obj\Debug\Window4.baml

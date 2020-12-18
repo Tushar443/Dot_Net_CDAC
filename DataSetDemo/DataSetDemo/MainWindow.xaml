@@ -10,6 +10,11 @@
         <DataGrid x:Name="lstGrid" HorizontalAlignment="Left" Height="339" Margin="56,48,0,0" VerticalAlignment="Top" Width="387"/>
         <Button x:Name="btnFill" Content="Fill with Data" HorizontalAlignment="Left" Margin="588,57,0,0" VerticalAlignment="Top" Width="75" Click="btnFill_Click"/>
         <Button x:Name="btnUpdate" Content="Update" HorizontalAlignment="Left" Margin="588,122,0,0" VerticalAlignment="Top" Width="75" Click="btnUpdate_Click"/>
+        <Button x:Name="btnFilter" Content="Filter" HorizontalAlignment="Left" Margin="588,195,0,0" VerticalAlignment="Top" Width="75" Click="btnFilter_Click"/>
+        <TextBox x:Name="txtDeptNo" HorizontalAlignment="Left" Height="23" Margin="674,192,-0.4,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="btnXML" Content="XML Data" HorizontalAlignment="Left" Margin="588,248,0,0" VerticalAlignment="Top" Width="75" Click="btnXML_Click"/>
+        <Button x:Name="btnSave" Content="Save in the File" HorizontalAlignment="Left" Margin="564,291,0,0" VerticalAlignment="Top" Width="127" RenderTransformOrigin="0.088,0.297" Click="btnSave_Click"/>
+        <Button x:Name="btnRead" Content="Read from File" HorizontalAlignment="Left" Margin="564,339,0,0" VerticalAlignment="Top" Width="131" Click="btnRead_Click"/>
 
     </Grid>
 </Window>

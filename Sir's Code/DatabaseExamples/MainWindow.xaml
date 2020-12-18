@@ -18,6 +18,8 @@
         <Button x:Name="btnInsert" Content="Insert" HorizontalAlignment="Left" Margin="77,205,0,0" VerticalAlignment="Top" Width="75" Click="btnInsert_Click"/>
         <Button Content="Insert with Parameters" HorizontalAlignment="Left" Margin="187,205,0,0" VerticalAlignment="Top" Width="185" Click="Button_Click"/>
         <Button Content="Insert with Stored Procedure" HorizontalAlignment="Left" Margin="85,246,0,0" VerticalAlignment="Top" Width="277" Click="Button_Click_1"/>
+        <Button Content="Transaction" HorizontalAlignment="Left" Margin="85,288,0,0" VerticalAlignment="Top" Width="277" Click="Button_Click_2"/>
+        <Button Content="ExecuteScalar" HorizontalAlignment="Left" Margin="86,335,0,0" VerticalAlignment="Top" Width="276" Click="Button_Click_3"/>
 
     </Grid>
 </Window>
