@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model_Mapping_AND_DB_code",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataBaseMapping", "DataBaseMapping\DataBaseMapping.csproj", "{04436346-88A9-47B9-B738-376C74B2026C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HTML_Helper_Demo", "HTML_Helper_Demo\HTML_Helper_Demo.csproj", "{973140F8-88AF-4803-82A3-3167BBE95520}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{04436346-88A9-47B9-B738-376C74B2026C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{04436346-88A9-47B9-B738-376C74B2026C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{04436346-88A9-47B9-B738-376C74B2026C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{973140F8-88AF-4803-82A3-3167BBE95520}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{973140F8-88AF-4803-82A3-3167BBE95520}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{973140F8-88AF-4803-82A3-3167BBE95520}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{973140F8-88AF-4803-82A3-3167BBE95520}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
