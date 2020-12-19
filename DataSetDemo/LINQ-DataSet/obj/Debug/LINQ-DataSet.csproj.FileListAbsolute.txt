@@ -15,3 +15,5 @@ C:\Users\TUSHAR TANAJI MORE\Desktop\GitHub\Dot_Net_CDAC\DataSetDemo\LINQ-DataSet
 C:\Users\TUSHAR TANAJI MORE\Desktop\GitHub\Dot_Net_CDAC\DataSetDemo\LINQ-DataSet\obj\Debug\LINQ-DataSet.pdb
 C:\Users\TUSHAR TANAJI MORE\Desktop\GitHub\Dot_Net_CDAC\DataSetDemo\LINQ-DataSet\obj\Debug\TypeData.g.cs
 C:\Users\TUSHAR TANAJI MORE\Desktop\GitHub\Dot_Net_CDAC\DataSetDemo\LINQ-DataSet\obj\Debug\TypeData.baml
+C:\Users\TUSHAR TANAJI MORE\Desktop\GitHub\Dot_Net_CDAC\DataSetDemo\LINQ-DataSet\obj\Debug\LINQ_To_SQL.g.cs
+C:\Users\TUSHAR TANAJI MORE\Desktop\GitHub\Dot_Net_CDAC\DataSetDemo\LINQ-DataSet\obj\Debug\LINQ_To_SQL.baml
