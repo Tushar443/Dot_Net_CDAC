@@ -87,3 +87,16 @@ s = objCookie.Value;
 
 
 
+//Add Multiple value to cookies
+HttpCookie userInfo = new HttpCookie("userInfo");  
+userInfo["UserName"] = "Annathurai";  
+userInfo["UserColor"] = "Black";  
+userInfo.Expires.Add(new TimeSpan(0, 1, 0));  
+Response.Cookies.Add(userInfo);
+string User_Name = string.Empty;  
+string User_Color = string.Empty;  
+User_Name = Request.Cookies["userName"].Value;  
+User_Color = Request.Cookies["userColor"].Value;
+
+
+

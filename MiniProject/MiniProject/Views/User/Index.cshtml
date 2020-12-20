@@ -1,0 +1,33 @@
+﻿@model IEnumerable<MiniProject.Models.User>
+
+
+
+
+@{
+    ViewBag.Title = "Index";
+    var item = (MiniProject.Models.User)Session["item"];
+
+    @*HttpCookie objCook = Request.Cookies["MyCookies"];
+    int UserId = Convert.ToInt32(objCook.Value);*@
+
+}
+
+@if (item != null)
+
+{
+    Response.Redirect("Home");
+}
+else
+{
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Login Page", "LogIn")
+</p>
+
+
+<p>
+    @Html.ActionLink("Register Page", "Create")
+</p>
+
+}
