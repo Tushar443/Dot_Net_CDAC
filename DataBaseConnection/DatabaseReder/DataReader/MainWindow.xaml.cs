@@ -95,5 +95,10 @@ namespace DataReader
             cn.Close();
             MessageBox.Show("Inserted");
         }
+
+        private void txtDeptNo_TextChanged(object sender, TextChangedEventArgs e)
+        {
+
+        }
     }
 }

@@ -1,0 +1,31 @@
+﻿@model MiniProject.Models.User
+
+
+@Html.Partial("_User");
+
+@{
+    ViewBag.Title = "Home";
+    var item = (MiniProject.Models.User)Session["item"];
+
+}
+@if (item != null)
+{
+
+
+<h1>Home</h1>
+<h1>@item.FullName</h1>
+<h1>@item.LogInName</h1>
+<p>
+    @Html.ActionLink("Update Profile", "Edit", new { id = item.UserId })
+</p>
+
+<p>
+    @Html.ActionLink("Logout", "Logout")
+</p>
+
+
+}
+else
+{
+    Response.Redirect("Index");
+}

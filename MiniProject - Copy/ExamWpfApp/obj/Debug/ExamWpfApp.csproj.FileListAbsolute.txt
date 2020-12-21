@@ -1,0 +1,15 @@
+C:\Users\TUSHAR TANAJI MORE\Desktop\GitHub\Dot_Net_CDAC\MiniProject\ExamWpfApp\bin\Debug\ExamWpfApp.exe.config
+C:\Users\TUSHAR TANAJI MORE\Desktop\GitHub\Dot_Net_CDAC\MiniProject\ExamWpfApp\bin\Debug\ExamWpfApp.exe
+C:\Users\TUSHAR TANAJI MORE\Desktop\GitHub\Dot_Net_CDAC\MiniProject\ExamWpfApp\bin\Debug\ExamWpfApp.pdb
+C:\Users\TUSHAR TANAJI MORE\Desktop\GitHub\Dot_Net_CDAC\MiniProject\ExamWpfApp\obj\Debug\ExamWpfApp.csprojAssemblyReference.cache
+C:\Users\TUSHAR TANAJI MORE\Desktop\GitHub\Dot_Net_CDAC\MiniProject\ExamWpfApp\obj\Debug\MainWindow.g.cs
+C:\Users\TUSHAR TANAJI MORE\Desktop\GitHub\Dot_Net_CDAC\MiniProject\ExamWpfApp\obj\Debug\App.g.cs
+C:\Users\TUSHAR TANAJI MORE\Desktop\GitHub\Dot_Net_CDAC\MiniProject\ExamWpfApp\obj\Debug\ExamWpfApp_MarkupCompile.cache
+C:\Users\TUSHAR TANAJI MORE\Desktop\GitHub\Dot_Net_CDAC\MiniProject\ExamWpfApp\obj\Debug\ExamWpfApp_MarkupCompile.lref
+C:\Users\TUSHAR TANAJI MORE\Desktop\GitHub\Dot_Net_CDAC\MiniProject\ExamWpfApp\obj\Debug\MainWindow.baml
+C:\Users\TUSHAR TANAJI MORE\Desktop\GitHub\Dot_Net_CDAC\MiniProject\ExamWpfApp\obj\Debug\ExamWpfApp.g.resources
+C:\Users\TUSHAR TANAJI MORE\Desktop\GitHub\Dot_Net_CDAC\MiniProject\ExamWpfApp\obj\Debug\ExamWpfApp.Properties.Resources.resources
+C:\Users\TUSHAR TANAJI MORE\Desktop\GitHub\Dot_Net_CDAC\MiniProject\ExamWpfApp\obj\Debug\ExamWpfApp.csproj.GenerateResource.cache
+C:\Users\TUSHAR TANAJI MORE\Desktop\GitHub\Dot_Net_CDAC\MiniProject\ExamWpfApp\obj\Debug\ExamWpfApp.csproj.CoreCompileInputs.cache
+C:\Users\TUSHAR TANAJI MORE\Desktop\GitHub\Dot_Net_CDAC\MiniProject\ExamWpfApp\obj\Debug\ExamWpfApp.exe
+C:\Users\TUSHAR TANAJI MORE\Desktop\GitHub\Dot_Net_CDAC\MiniProject\ExamWpfApp\obj\Debug\ExamWpfApp.pdb

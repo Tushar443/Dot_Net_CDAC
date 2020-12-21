@@ -14,7 +14,7 @@
         <TextBox x:Name="txtEmpId" HorizontalAlignment="Left" Height="23" Margin="170,10,0,0" TextWrapping="Wrap" Text="EmpId" VerticalAlignment="Top" Width="120"/>
         <TextBox x:Name="txtEmpName" HorizontalAlignment="Left" Height="23" Margin="170,55,0,0" TextWrapping="Wrap" Text="EmpName" VerticalAlignment="Top" Width="120"/>
         <TextBox x:Name="txtBasic" HorizontalAlignment="Left" Height="23" Margin="170,106,0,0" TextWrapping="Wrap" Text="Basic" VerticalAlignment="Top" Width="120"/>
-        <TextBox x:Name="txtDeptNo" HorizontalAlignment="Left" Height="23" Margin="170,154,0,0" TextWrapping="Wrap" Text="DeptNo" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtDeptNo" HorizontalAlignment="Left" Height="23" Margin="170,154,0,0" TextWrapping="Wrap" Text="DeptNo" VerticalAlignment="Top" Width="120" TextChanged="txtDeptNo_TextChanged"/>
 
     </Grid>
 </Window>

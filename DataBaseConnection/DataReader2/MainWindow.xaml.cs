@@ -43,7 +43,7 @@ namespace DataReader2
             while (dr.Read())
             {
                 // dr["EmpName"] = "twdd"; read only error
-                lstEmps.Items.Add(dr["EmpName"]); //this is better more readable
+                lstEmps.Items.Add(dr["EmpName"]+" "+ dr["Basic"] + " "+ dr["DeptNo"]); //this is better more readable
                 // lstEmps.Items.Add(dr[1]);
                 dr.GetString(1);
                 dr.GetInt32(0);

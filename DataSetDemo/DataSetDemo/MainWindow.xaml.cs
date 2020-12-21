@@ -34,7 +34,7 @@ namespace DataSetDemo
             cn.Open();
             SqlCommand cmd = new SqlCommand();
             cmd.Connection = cn;
-            cmd.CommandType = System.Data.CommandType.Text;
+            cmd.CommandType = CommandType.Text;
             cmd.CommandText = "select * from Employee";
 
             ds = new DataSet();
@@ -71,13 +71,15 @@ namespace DataSetDemo
             cmdDelte.Connection = cn;
             cmdDelte.CommandType = CommandType.Text;
             cmdDelte.CommandText = "Delete from Employee where EmpNo=@EmpNo";
-            cmdDelte.Parameters.Add(new SqlParameter { ParameterName = "@EmpNo", SourceColumn = "EmpNo", SourceVersion = DataRowVersion.Original });
+            cmdDelte.Parameters.Add(new SqlParameter { ParameterName = "@EmpNo", 
+                                                SourceColumn = "EmpNo", SourceVersion = DataRowVersion.Original });
 
             //Update
             SqlCommand cmdUpdate = new SqlCommand();
             cmdUpdate.Connection = cn;
             cmdUpdate.CommandType = CommandType.Text;
-            cmdUpdate.CommandText = "update Employee set EmpName=@EmpName ,Basic=@Basic,DeptNo=@DeptNo where EmpNo=@EmpNo";
+            cmdUpdate.CommandText = "update Employee set EmpName=@EmpName ," +
+                                            "Basic=@Basic,DeptNo=@DeptNo where EmpNo=@EmpNo";
             //cmdUpdate.Parameters.AddWithValSourceColumnue("@EmpName",txtName);
 
             //SqlParameter p = new SqlParameter();

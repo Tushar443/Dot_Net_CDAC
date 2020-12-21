@@ -1,0 +1,60 @@
+﻿@model IEnumerable<DotNetExam.Models.Product>
+
+@{
+    ViewBag.Title = "Index";
+    //int ProductNo = @Html.DisplayFor()
+}
+
+<h2>Index</h2>
+
+<p>
+  
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @*@Html.ActionLink(,"Edit")*@
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ProductName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Rate)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Description)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CatergoryId)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.ActionLink(item.ProductId.ToString(),"Edit", new { ProductId = item.ProductId })
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ProductName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Rate)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Description)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CatergoryId)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.ProductId }) |
+            @Html.ActionLink("Details", "Details", new { id=item.ProductId }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.ProductId })
+        </td>
+    </tr>
+}
+
+</table>
+
+@Html.Partial("CommonView")
