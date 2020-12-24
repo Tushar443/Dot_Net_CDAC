@@ -132,8 +132,8 @@ namespace Arrays
     //5 rows , each row has diff cols
     //array of arrays
     //int[] [] arr = new int [2][]  ====> jagged array
-    //arr[0] = new int [3];
-    //arr[1] = new int [5];
+    //arr[0] = new int [138];
+    //arr[1] = new int [112];
 
     //0 -> [][][]
     //1 -> [][][][][]

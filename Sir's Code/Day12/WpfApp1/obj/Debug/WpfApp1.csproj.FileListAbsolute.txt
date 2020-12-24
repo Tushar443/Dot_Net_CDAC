@@ -17,3 +17,5 @@ D:\Trainings\JKDec20\Day12\WpfApp1\obj\Debug\Window1.g.cs
 D:\Trainings\JKDec20\Day12\WpfApp1\obj\Debug\Window1.baml
 D:\Trainings\JKDec20\Day12\WpfApp1\obj\Debug\Window2.g.cs
 D:\Trainings\JKDec20\Day12\WpfApp1\obj\Debug\Window2.baml
+D:\Trainings\JKDec20\Day12\WpfApp1\obj\Debug\Window3.g.cs
+D:\Trainings\JKDec20\Day12\WpfApp1\obj\Debug\Window3.baml

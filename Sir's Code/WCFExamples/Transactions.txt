@@ -1,0 +1,11 @@
+To do
+--------------
+
+add a client for config(ClientForConsoleApp)
+generate async code(ClientForConsoleApp-Main)
+-- BeginHello
+--HelloAsync
+one way contract -IsOneWay=true(.....AndConfigFile)
+Duplex operations -wsDualHttpBinding (DuplexWCFService)
+multiple contracts(MultipleBindingsService)
+netTcpBinding

@@ -1,0 +1,6 @@
+D:\TrainingExamples\WCFExamples\SelfHostNetTcp\bin\Debug\SelfHostNetTcp.exe.config
+D:\TrainingExamples\WCFExamples\SelfHostNetTcp\bin\Debug\SelfHostNetTcp.exe
+D:\TrainingExamples\WCFExamples\SelfHostNetTcp\bin\Debug\SelfHostNetTcp.pdb
+D:\TrainingExamples\WCFExamples\SelfHostNetTcp\obj\Debug\ResolveAssemblyReference.cache
+D:\TrainingExamples\WCFExamples\SelfHostNetTcp\obj\Debug\SelfHostNetTcp.exe
+D:\TrainingExamples\WCFExamples\SelfHostNetTcp\obj\Debug\SelfHostNetTcp.pdb

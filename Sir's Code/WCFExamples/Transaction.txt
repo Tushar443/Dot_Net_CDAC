@@ -1,0 +1,17 @@
+Service Contract - SessionMode.Required Service contracts must require sessions because this is how information will be shared between the coordinator (typically the client) and the participating services
+
+Operation Behavior - TransactionScopeRequired=true. Operation
+behavior must require a transaction scope. This will create a
+new transaction if one is not already present.
+Operation Contract - TransactionFlowOption.Allowed. Operation
+contracts must allow transaction information to flow in the
+header of messages.
+Binding Definition - TransactionFlow = true. The binding must
+enable transaction flow so that the channel can put transaction information
+into the SOAP header. Also note that the binding must support
+sessions because wsHttpBinding does but basicHttpBinding
+does not.
+Client - TransactionScope The party that initiates the transaction,
+typically the client, must use a transaction scope when calling the
+service operations. It must also call TransactionScope.Close,- to
+commit the changes.

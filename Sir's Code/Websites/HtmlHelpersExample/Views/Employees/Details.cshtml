@@ -6,59 +6,59 @@
 
 <h2>Details</h2>
 
-<div>
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    
+<div class="form-horizontal">
     <h4>Employee</h4>
     <hr />
-    <dl class="dl-horizontal">
-        <dt>
-            @Html.DisplayNameFor(model => model.EmpNo)
-        </dt>
+    ActionLink @Html.ActionLink("Go to Edit", "Edit")<br /><br />
 
-        <dd>
-            @Html.DisplayFor(model => model.EmpNo)
-        </dd>
-
-        <dt>
-            @Html.DisplayNameFor(model => model.Name)
-        </dt>
-
-        <dd>
-            @Html.DisplayFor(model => model.Name)
-        </dd>
-
-        <dt>
-            @Html.DisplayNameFor(model => model.Basic)
-        </dt>
-
-        <dd>
-            @Html.DisplayFor(model => model.Basic)
-        </dd>
-
-        <dt>
-            @Html.DisplayNameFor(model => model.DeptNo)
-        </dt>
-
-        <dd>
-            @Html.DisplayFor(model => {
-
-           var emp = from dept in 
+    TextBox @Html.TextBox("txtBasic", Model.Basic)<br />
+    TextBoxFor @Html.TextBoxFor(model => model.Name) <br /><br />
 
 
-           model.DeptNo
-       })
-        </dd>
+    CheckBox @Html.CheckBox("chk1")<br />
+    CheckBoxFor @Html.CheckBoxFor(model => model.IsActive)<br /><br />
 
-        <dt>
-            @Html.DisplayNameFor(model => model.IsActive)
-        </dt>
 
-        <dd>
-            @Html.DisplayFor(model => model.IsActive)
-        </dd>
+    @Html.RadioButton("btn1", "Yes") Yes<br />
+    @Html.RadioButton("btn1", "No") No<br />
+    @Html.RadioButton("btn1", "Maybe") Maybe<br /><br />
 
-    </dl>
+    @foreach (var item in Model.Departments)
+    {
+        @Html.RadioButtonFor(model => model.DeptNo, item.Value)
+        @item.Text
+        <br />
+    }
+    <br />
+
+    DropDownList @Html.DropDownList("ddlDepts", Model.Departments)
+    <br />
+
+
+    DropDownListFor @Html.DropDownListFor(model => model.DeptNo, Model.Departments)
+
+    <br />
+
+    @Html.Password("txtPassword")<br />
+    @Html.PasswordFor(model => model.Name)
+
+    <br />
+    @Html.TextAreaFor(model => model.Name)
+    <br />
+
+
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-10">
+            <input type="submit" value="Save" class="btn btn-default" />
+        </div>
+    </div>
 </div>
-<p>
-    @Html.ActionLink("Edit", "Edit", new { /* id = Model.PrimaryKey */ }) |
+}
+
+<div>
     @Html.ActionLink("Back to List", "Index")
-</p>
+</div>

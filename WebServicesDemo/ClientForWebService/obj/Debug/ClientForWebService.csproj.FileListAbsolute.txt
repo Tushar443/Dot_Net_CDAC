@@ -1,0 +1,7 @@
+C:\Users\TUSHAR TANAJI MORE\Desktop\GitHub\Dot_Net_CDAC\WebServicesDemo\ClientForWebService\bin\Debug\ClientForWebService.exe.config
+C:\Users\TUSHAR TANAJI MORE\Desktop\GitHub\Dot_Net_CDAC\WebServicesDemo\ClientForWebService\bin\Debug\ClientForWebService.exe
+C:\Users\TUSHAR TANAJI MORE\Desktop\GitHub\Dot_Net_CDAC\WebServicesDemo\ClientForWebService\bin\Debug\ClientForWebService.pdb
+C:\Users\TUSHAR TANAJI MORE\Desktop\GitHub\Dot_Net_CDAC\WebServicesDemo\ClientForWebService\obj\Debug\ClientForWebService.csprojAssemblyReference.cache
+C:\Users\TUSHAR TANAJI MORE\Desktop\GitHub\Dot_Net_CDAC\WebServicesDemo\ClientForWebService\obj\Debug\ClientForWebService.csproj.CoreCompileInputs.cache
+C:\Users\TUSHAR TANAJI MORE\Desktop\GitHub\Dot_Net_CDAC\WebServicesDemo\ClientForWebService\obj\Debug\ClientForWebService.exe
+C:\Users\TUSHAR TANAJI MORE\Desktop\GitHub\Dot_Net_CDAC\WebServicesDemo\ClientForWebService\obj\Debug\ClientForWebService.pdb

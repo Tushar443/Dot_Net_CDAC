@@ -1,0 +1,6 @@
+D:\TrainingExamples\WCFExamples\ClientForDuplex\obj\Debug\ResolveAssemblyReference.cache
+D:\TrainingExamples\WCFExamples\ClientForDuplex\bin\Debug\ClientForDuplex.exe.config
+D:\TrainingExamples\WCFExamples\ClientForDuplex\bin\Debug\ClientForDuplex.exe
+D:\TrainingExamples\WCFExamples\ClientForDuplex\bin\Debug\ClientForDuplex.pdb
+D:\TrainingExamples\WCFExamples\ClientForDuplex\obj\Debug\ClientForDuplex.exe
+D:\TrainingExamples\WCFExamples\ClientForDuplex\obj\Debug\ClientForDuplex.pdb

@@ -1,0 +1,12 @@
+1. HostWCFServiceInConsoleAppWithCode / ClientForConsoleApp
+2. HostWCFServiceInConsoleAppWithCodeAndConfigFile / ClientForConsoleApp
+3.		OperationContract(IsOneWay=true)
+4.		Async Code
+5. Create service in VS.Net(WCFservice1) Run, service
+6. MultipleBindingsService/ClientForMultipleBindings
+7. DuplexWCFService/ClientForDuplexService
+8. SelfHostingNetTcp / ClientForNetTcpBinding
+9. Transactions
+10. ChannelFactory(Client1)
+
+https://docs.microsoft.com/en-us/dotnet/framework/wcf/system-provided-bindings

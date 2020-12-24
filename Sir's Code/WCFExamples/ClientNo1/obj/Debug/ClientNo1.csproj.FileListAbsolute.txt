@@ -1,0 +1,7 @@
+D:\Dump\WCFExamples\ClientNo1\bin\Debug\ClientNo1.exe.config
+D:\Dump\WCFExamples\ClientNo1\bin\Debug\ClientNo1.exe
+D:\Dump\WCFExamples\ClientNo1\bin\Debug\ClientNo1.pdb
+D:\Dump\WCFExamples\ClientNo1\obj\Debug\ClientNo1.csprojAssemblyReference.cache
+D:\Dump\WCFExamples\ClientNo1\obj\Debug\ClientNo1.csproj.CoreCompileInputs.cache
+D:\Dump\WCFExamples\ClientNo1\obj\Debug\ClientNo1.exe
+D:\Dump\WCFExamples\ClientNo1\obj\Debug\ClientNo1.pdb

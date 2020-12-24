@@ -1,0 +1,14 @@
+C:\Vikram\WCFExamples\Client1\bin\Debug\Client1.exe.config
+C:\Vikram\WCFExamples\Client1\bin\Debug\Client1.exe
+C:\Vikram\WCFExamples\Client1\bin\Debug\Client1.pdb
+C:\Vikram\WCFExamples\Client1\obj\Debug\Client1.csprojAssemblyReference.cache
+C:\Vikram\WCFExamples\Client1\obj\Debug\Client1.csproj.CoreCompileInputs.cache
+C:\Vikram\WCFExamples\Client1\obj\Debug\Client1.exe
+C:\Vikram\WCFExamples\Client1\obj\Debug\Client1.pdb
+D:\Dump\WCFExamples\Client1\bin\Debug\Client1.exe.config
+D:\Dump\WCFExamples\Client1\bin\Debug\Client1.exe
+D:\Dump\WCFExamples\Client1\bin\Debug\Client1.pdb
+D:\Dump\WCFExamples\Client1\obj\Debug\Client1.csprojAssemblyReference.cache
+D:\Dump\WCFExamples\Client1\obj\Debug\Client1.csproj.CoreCompileInputs.cache
+D:\Dump\WCFExamples\Client1\obj\Debug\Client1.exe
+D:\Dump\WCFExamples\Client1\obj\Debug\Client1.pdb

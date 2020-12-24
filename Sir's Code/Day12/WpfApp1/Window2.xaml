@@ -8,7 +8,7 @@
         Title="Window2" Height="239.6" Width="331.2">
     <Grid>
         <Label x:Name="lblNum1" Content="Num1" HorizontalAlignment="Left" Margin="26,22,0,0" VerticalAlignment="Top"/>
-        <TextBox x:Name="txtNum1" HorizontalAlignment="Left" Height="23" Margin="136,22,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" KeyDown="txtNum1_KeyDown" />
+        <TextBox x:Name="txtNum1" HorizontalAlignment="Left" Height="23" Margin="136,22,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" KeyDown="txtNum1_KeyDown" PreviewTextInput="txtNum1_PreviewTextInput" />
         <Label x:Name="lblNum2" Content="Num2" HorizontalAlignment="Left" Margin="26,75,0,0" VerticalAlignment="Top"/>
         <TextBox x:Name="txtNum2" HorizontalAlignment="Left" Height="23" Margin="136,75,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" />
         <Label x:Name="lblSum" Content="Sum" HorizontalAlignment="Left" Margin="26,134,0,0" VerticalAlignment="Top"/>

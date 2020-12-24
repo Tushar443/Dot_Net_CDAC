@@ -26,11 +26,19 @@ namespace WpfApp1
 
         private void txtNum1_KeyDown(object sender, KeyEventArgs e)
         {
-            MessageBox.Show(KeyInterop.VirtualKeyFromKey(e.Key).ToString());
 
+
+            //MessageBox.Show(KeyInterop.VirtualKeyFromKey(e.Key).ToString());
             //MessageBox.Show(e.Key.ToString());
-            e.Handled = true;
+            //e.Handled = true;
 
+        }
+
+       
+        private void txtNum1_PreviewTextInput(object sender, TextCompositionEventArgs e)
+        {
+            MessageBox.Show(e.Text);
+           
         }
     }
 }

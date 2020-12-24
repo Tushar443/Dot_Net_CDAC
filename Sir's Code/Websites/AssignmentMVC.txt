@@ -28,8 +28,6 @@ Full Name <full nname>
 Logout (submit button) --> Session.Abandon(), delete cookie, redirect to login page
 Update Profile (Hyperlink)
 
-
-
 4. Update Profile
 
 Login name (display login name)
