@@ -30,20 +30,20 @@ namespace DeoThread
                 Console.WriteLine("Main : " + i);
             }
             
-            //Console.ReadLine();
+            Console.ReadLine();
         }
         public static void Func1()
         {
             for (int i = 0; i < 100; i++)
             {
-                Console.WriteLine("First : "+i);
+                Console.WriteLine("First T1 : "+i);
             }
         }
         public static void Func2()
         {
             for (int i = 0; i < 100; i++)
             {
-                Console.WriteLine("second : "+i);
+                Console.WriteLine("second T2 : "+i);
             }
         }
     }
@@ -53,14 +53,14 @@ namespace DeoThread2
 {
     class Program
     {
-        static void Main3(string[] args)
+        static void Main(string[] args)
         {
             Thread t1 = new Thread(new ThreadStart(Func1));
             Thread t2 = new Thread(Func2);
             //t1.Priority = ThreadPriority.Highest;
             t1.IsBackground = false;
-           // Console.WriteLine(t1.ThreadState == ThreadState.Background);
-            //Console.WriteLine(t1.ThreadState == ThreadState.Unstarted);
+            Console.WriteLine(t1.ThreadState == ThreadState.Background);
+            Console.WriteLine(t1.ThreadState == ThreadState.Unstarted);
             t1.Start();
             //Console.WriteLine(t1.ThreadState == ThreadState.WaitSleepJoin);
 
@@ -119,7 +119,7 @@ namespace DeoThread3
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main4(string[] args)
         {
             Thread t1 = new Thread(new ParameterizedThreadStart(Func1));
             // Thread t2 = new Thread(Func2);

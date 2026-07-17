@@ -13,12 +13,15 @@ namespace ConsoleApp1
             demoClass d1 = new demoClass();
             demoClass d2 = new demoClass();
             d1.i = 100;
+
+            
+
             d2.i = 200;
             d1 = d2;
             d2.i = 300;
 
-            //Console.WriteLine(d1.i);
-            //Console.WriteLine(d2.i);
+            //Console.WriteLine(d1.i); //300
+            //Console.WriteLine(d2.i); //300
 
             int x = 100;
             int y = 200;
@@ -26,18 +29,19 @@ namespace ConsoleApp1
 
             y = 300;
 
-            //Console.WriteLine(x);
-            //Console.WriteLine(y);
+           //Console.WriteLine(x);  //200
+           // Console.WriteLine(y); //300
 
-            //demoClass o1 = new demoClass();
-            //o1.i = 100;
-            //demoReferance(ref o1);
-            //Console.WriteLine(o1.i);
-
-
-            demoClass o1;
-            demoOUT(out o1);
+            demoClass o1 = new demoClass();
+            o1.i = 100;
+            demoReferance(ref o1);
             Console.WriteLine(o1.i);
+
+
+            //demoClass o1;
+            //demoOUT(out o1);
+           // Console.WriteLine(o1.i);
+            Console.ReadLine();
         }
 
         public static void demoReferance(ref demoClass obj1) //  obj1=o1

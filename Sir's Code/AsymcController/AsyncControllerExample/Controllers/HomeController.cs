@@ -21,12 +21,14 @@ namespace AsyncControllerExample.Controllers
 
             o.DoWorkCompleted += O_DoWorkCompleted;
             o.DoWorkAsync();
+            AsyncManager.OutstandingOperations.Increment();
             return View();
         }
 
         private void O_DoWorkCompleted(object sender, ServiceReference1.DoWorkCompletedEventArgs e)
         {
             ViewBag.retval = e.Result;
+            AsyncManager.OutstandingOperations.Decrement();
         }
     }
 }

@@ -67,7 +67,8 @@ namespace Predict_Delegate
         {
             Predicate<int> o = Display;
             Console.WriteLine(o(3));
-          //  Predicate<> o1 = Display;  //error we need to pass atleast 1 parameter
+            Predicate<int> o1 = Display;  //error we need to pass atleast 1 parameter
+            Console.ReadLine();
 
         }
         static bool Display(int i)

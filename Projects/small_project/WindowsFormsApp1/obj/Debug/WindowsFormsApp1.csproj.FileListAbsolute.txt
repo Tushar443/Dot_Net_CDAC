@@ -1,0 +1,11 @@
+C:\Users\TUSHAR TANAJI MORE\Desktop\GitHub\Dot_Net_CDAC\Projects\small_project\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\TUSHAR TANAJI MORE\Desktop\GitHub\Dot_Net_CDAC\Projects\small_project\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\TUSHAR TANAJI MORE\Desktop\GitHub\Dot_Net_CDAC\Projects\small_project\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\TUSHAR TANAJI MORE\Desktop\GitHub\Dot_Net_CDAC\Projects\small_project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\TUSHAR TANAJI MORE\Desktop\GitHub\Dot_Net_CDAC\Projects\small_project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\TUSHAR TANAJI MORE\Desktop\GitHub\Dot_Net_CDAC\Projects\small_project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\TUSHAR TANAJI MORE\Desktop\GitHub\Dot_Net_CDAC\Projects\small_project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.student_info.resources
+C:\Users\TUSHAR TANAJI MORE\Desktop\GitHub\Dot_Net_CDAC\Projects\small_project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\TUSHAR TANAJI MORE\Desktop\GitHub\Dot_Net_CDAC\Projects\small_project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\TUSHAR TANAJI MORE\Desktop\GitHub\Dot_Net_CDAC\Projects\small_project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\TUSHAR TANAJI MORE\Desktop\GitHub\Dot_Net_CDAC\Projects\small_project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
